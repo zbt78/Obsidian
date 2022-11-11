@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "731344cbf374dbb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e55be3ca457dfe1f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "New/特殊名词解释.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04ea749f3c5411d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "554ecd9904691121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aac447ebc4320c7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "62787ab948afac6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0ea6106e0e32388",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3226896fa5fa25ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4356a7cbf329e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57dc4354e0b7e185",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "New/特殊名词解释.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2566fd2175b2df1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "New/特殊名词解释.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25dab492087ac141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc5ed0840814dcde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "New/特殊名词解释.md"
+              }
+            }
+          },
+          {
+            "id": "9561e9d68c0e0a8e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e55be3ca457dfe1f",
+  "lastOpenFiles": [
+    "InvariantPreferenceLearning.md",
+    "Attachment/Pasted image 20221012232704.png",
+    "Attachment/Pasted image 20221012232653.png",
+    "日记/2022-10-12.md",
+    "firstTest.md"
+  ]
+}

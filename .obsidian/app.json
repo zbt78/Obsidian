@@ -1,0 +1,14 @@
+{
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "New",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Attachment",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
